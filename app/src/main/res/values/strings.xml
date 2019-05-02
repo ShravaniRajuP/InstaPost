@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">InstaPost</string>
+
+    <string name="Email">Email</string>
+    <string name="Name">Name</string>
+    <string name="NickName">NickName</string>
+    <string name="title_activity_insta">InstaActivity</string>
+    <string name="tab_text_1">Posts</string>
+    <string name="tab_text_2">Create Posts</string>
+    <string name="tab_text_3">Search Posts</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="Upload">You can add your posts here</string>
+    <string name="ChooseFile">Browse Files</string>
+    <string name="ImageName">Enter #Hashtag Comments here</string>
+    <string name="NoData">No posts are available please create a new Post</string>
+    <string name="DashBoard">My DashBoard</string>
+    <string name="Name_List"> Names of the users </string>
+    <string name="Hash_List">Hashtag comments</string>
+    <string name="Comments">Enter your comments here</string>
+</resources>
